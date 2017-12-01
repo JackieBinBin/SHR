@@ -1,0 +1,47 @@
+# -*- coding:utf-8 -*-
+
+register_header:
+  appKey: de89f250bd8f
+  secret: RSA
+  signt:
+  secretKey: 3e93c46ee38db473950c
+  sign:
+
+register_vehicle_common_info:
+  modelCode:
+  vin:
+  iccid:
+  vehUse:
+  vehMakeDate:
+  saleDate:
+  batAccuCode:
+  accuMakeDate:
+  dynNo:
+  engineNo:
+  sn:
+  inDate: null
+  onLineDate: null
+  drivLicenNum:
+  buyerCarCounty:
+  terminalType: TBOX
+  terminalFirm: 铁将军
+  veCode: 410000LWV01000000
+
+register_vehicle_business_info:
+  vehNo:
+  motonCompany:
+  addr:
+  linkman:
+  linkphone:
+  operatUnitLegal:
+  operatUnitLegalTel:
+  operatUnitAddress:
+  operatAddress:
+  vehChargeAddress:
+
+
+register_2_shanghai:
+  registerurl: http://106.14.51.20:8080/EvdataAPI/veh/add
+  publickey: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChixw4y0BDtlufNiwby9UTpampVdduYgBmCRdwJKfY/SPe/jGIdbmq1FONZiVBYArcfkVt4sDZpQ4Qh8nmNhU1kwOXYnehmPUVaWLo5lhd+OsGHbE+P6ZzvSG8f8R/BNK5uHSucC2mwsqG5nmfCwTLLaCnr4uu+EahTvDqW6AhMQIDAQAB
+
+
